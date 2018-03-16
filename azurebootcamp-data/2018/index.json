@@ -1,0 +1,10 @@
+{
+  "Locations": [
+    { 
+        "Name":"Chandigarh",
+        "Folder":"Chandigarh",
+        "WebsiteUrl":"https://gabchandigarh.azurewebsites.net", 
+        "Show": true
+    }
+  ]
+}
