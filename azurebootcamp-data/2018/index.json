@@ -3,7 +3,7 @@
     { 
         "Name":"Chandigarh",
         "Folder":"Chandigarh",
-        "WebsiteUrl":"https://gabchandigarh.azurewebsites.net", 
+        "WebsiteUrl":"http://gabchandigarh.azurewebsites.net", 
         "Show": true
     }
   ]
