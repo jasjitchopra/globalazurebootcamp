@@ -1,0 +1,52 @@
+{
+  "Event": {
+    "Date": "21-04-2018"
+  },
+  "Location": {
+    "Name": "Chandigarh",
+    "Latitude": 30.727002,
+    "Longitude": 76.841046,
+    "Address": "Net Solutions"
+  },
+
+  "Callout": {
+    "Text": "Register here for the event !",
+    "Link": "https://gabchandigarh.eventbrite.com ",
+    "Type": "default"
+  },
+  "Callspeakers": {
+    "Text": "Call for speakers",
+    "Link": "https://sessionize.com/global-azure-boot-camp-2018-chandigarh",
+    "Type": "default"
+  },  
+  "Organizers": [
+    {
+      "Name": "Jasjit Chopra",
+      "Social": {
+        "Email": "jasjitchopra@yahoo.com"
+      }
+    }
+  ],
+  "Sponsors": [
+  ],
+  "Prizes": [
+      {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ],
+"Tracks": [
+    {
+      "Name": "",
+      "Sessions": [
+        {
+          "SessionId": "",
+          "Time": "",
+          "Title": ""
+        }
+      ]
+    }
+  ]
+}
+
